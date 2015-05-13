@@ -6,4 +6,13 @@ Sites à scanner :
 Couleurs de l'application :
 Rouge sur fond vert
 Titre de l'application :
+
 Resaspi
+=======
+Resaspi
+Le site est disponible à l'adresse http://www.resanet.com/resaroute/
+
+Les tâches techniques à effectuer sont dans le fichier TODO.txt
+
+Application lourde :
+Technologie Swing
